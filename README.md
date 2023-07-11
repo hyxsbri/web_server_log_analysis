@@ -10,4 +10,6 @@
     (Zaker, Farzin, 2019, "Online Shopping Store - Web Server Logs", https://doi.org/10.7910/DVN/3QBYB5,
     Harvard Dataverse, V1)
 
+#### 로그 파일을 고효율 열지향 포맷인 parquet 파일로 전처리 후, 응답 크기별 페이지 클러스터링/ Organic traffic(오가닉 트래픽) 분석 등을 수행했습니다.
+
 > #### 작업 환경: *Google Colab(GPU T4)*

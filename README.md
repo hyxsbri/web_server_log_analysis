@@ -1,4 +1,4 @@
-# **Webserver Log File Analysis(웹 서버 로그 파일 분석)**
+# **Web server Log File Analysis Template**
 
 ## Project Outline
 

@@ -1,4 +1,4 @@
-# **Web server Log File Analysis Template**
+# **웹 서버 로그 파일 분석 템플릿**
 
 ## Project Outline
 
@@ -10,7 +10,7 @@
     (Zaker, Farzin, 2019, "Online Shopping Store - Web Server Logs", https://doi.org/10.7910/DVN/3QBYB5,
     Harvard Dataverse, V1)
 
-> ### 작업 환경: *Google Colab(GPU T4)*
+> ### 작업 환경: *Google Colab*
 
 로그 파일을 parquet(고효율 열지향 포맷) 파일로 변환 및 디스크/ 메모리 사용량 최적화 작업,  
 응답 크기별 페이지 클러스터링 / Organic traffic(오가닉 트래픽) 분석 등을 수행했습니다.
